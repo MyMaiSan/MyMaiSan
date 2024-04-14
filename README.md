@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I%60m+Mai+San%2C+Python+Developer)](https://git.io/typing-svg)
 
-Hi, everyone from Mai Sakurajima! Я python разработчик, в основе пишу скрипты, телеграм ботов, парсеры (завидуйте, я гений serlenium) и сайты на flet, flask, django. Кстати, мне 22 года и люблю аниме)
+Hi, everyone from Mai Sakurajima! Я python разработчик, в основе пишу скрипты, телеграм ботов, парсеры (завидуйте, я гений selenium) и сайты на flet, flask, django. Кстати, мне 22 года и люблю аниме)
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23589316/sakurajima-mai)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/MyMaiSakurajima/)
