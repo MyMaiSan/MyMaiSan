@@ -16,42 +16,6 @@ Hi, everyone from Mai Sakurajima! Я python разработчик, в осно�
 
 </br>
 
-## 🛠️ Инструменты
-
-```json
-  {
-
-    "languages": [
-      {"python", "kotlin"}
-    ],
-
-    "frameworks/moduls": [
-      {"flask", "flet", "django", "fastapi"},
-      {"telebot", "aiogram"},
-      {"requests", "selenium", "beautifulsoup4"}
-    ],
-
-    "hosts": [
-      {"pythonanywhere", "beget", "heroku"}
-    ],
-
-    "ides": [
-      {"vs_code", "neovim", "sublime_text"}
-    ],
-
-    "os": [
-      {"debian", "kali", "ubuntu", "windows"}
-    ]
-
-  }
-```
-
-</br>
-
------
-
-</br>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyMaiSan&theme=dracula">
 </p>
